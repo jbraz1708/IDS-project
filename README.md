@@ -78,5 +78,3 @@ A função `fetch_external_data` faz requisições periódicas a uma **API exter
 - **Ferramenta de visualização**: **Grafana** 📊 (para visualização de métricas no Prometheus).
 
 ---
-
-Essa versão está mais interativa e visual, com emojis para facilitar a leitura e dar um toque tecnológico ao documento. Se precisar de algo mais, é só avisar! 😊
