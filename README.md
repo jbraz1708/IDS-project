@@ -1,6 +1,4 @@
-Claro! Vou adicionar emojis e um design mais tecnológico ao seu README para dar um toque mais moderno e atrativo. Aqui está a versão atualizada:
 
----
 
 # **Network Monitoring and Attack Prediction System** 🛡️🌐
 
